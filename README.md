@@ -1,27 +1,29 @@
-My Portfolio - Project Documentation
-📌 About the Project
-This is my personal portfolio website built with React, TypeScript, and Vite. It showcases my skills, projects, and experience in a visually appealing way.
-🚀 Features
-✔️ Modern UI/UX Design
-✔️ Fully Responsive (Mobile, Tablet & Desktop)
-✔️ Dynamic Theme Switching (Light/Dark Mode)
-✔️ Interactive Project Showcase
-✔️ Smooth Animations
-✔️ Contact Form Integration
-✔️ SEO Optimized
-🛠 Tech Stack
-Frontend
-• Framework: React.js (with Vite) 
-• Language: TypeScript 
-• State Management: Context API 
-• Styling: Tailwind CSS 
-• Routing: React Router 
-• API Handling: Axios
-Deployment
-• Frontend: Vercel / Netlify 
-• Backend (if needed): Azure / AWS / Railway
-📥 Installation & Setup
-1️⃣ Clone the repository:
+<h1>My Portfolio</h1> 
+
+-<h3> Project Documentation</h3>
+📌 About the Project</br>
+This is my personal portfolio website built with React,TypeScript, and Vite. It showcases my skills, projects, and experience in a visually appealing way.</br>
+🚀 Features</br>
+✔️ Modern UI/UX Design</br>
+✔️ Fully Responsive (Mobile, Tablet & Desktop)</br>
+✔️ Dynamic Theme Switching (Light/Dark Mode)</br>
+✔️ Interactive Project Showcase</br>
+✔️ Smooth Animations</br>
+✔️ Contact Form Integration</br>
+✔️ SEO Optimized</br>
+🛠 Tech Stack</br>
+Frontend</br>
+• Framework: React.js (with Vite) </br>
+• Language: TypeScript </br>
+• State Management: Context API </br>
+• Styling: Tailwind CSS </br>
+• Routing: React Router </br>
+• API Handling: Axios</br>
+Deployment</br>
+• Frontend: Vercel / Netlify </br>
+• Backend (if needed): Azure / AWS / Railway</br>
+📥 Installation & Setup</br>
+1️⃣ Clone the repository:</br>
 
 ```bash
 git clone https://github.com/Bhuvancode200/My_Portfolio.git
